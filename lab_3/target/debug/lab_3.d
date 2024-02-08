@@ -1,0 +1,1 @@
+D:\Projects\024\ Rust\ Class\ Assignments\CS2-Assignments-in-Rust\lab_3\target\debug\lab_3.exe: D:\Projects\024\ Rust\ Class\ Assignments\CS2-Assignments-in-Rust\lab_3\src\functions.rs D:\Projects\024\ Rust\ Class\ Assignments\CS2-Assignments-in-Rust\lab_3\src\main.rs
